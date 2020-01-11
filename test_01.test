@@ -1,0 +1,71 @@
+Test 1: 
+1. Add figure in queue
+2. Delete figure from queue
+3. Output figure
+4. Output all figures
+5. Add figure by index
+Input the number of function: 1
+Coordinates of 1 vertex:
+Coordinate 'x': 124
+Coordinate 'y': 12
+Coordinates of 2 vertex:
+Coordinate 'x': 124
+Coordinate 'y': 12
+Coordinates of 3 vertex:
+Coordinate 'x': 12
+Coordinate 'y': 24
+Coordinates of 4 vertex:
+Coordinate 'x': 12
+Coordinate 'y': 21
+Coordinates of 5 vertex:
+Coordinate 'x': 12
+Coordinate 'y': 21
+Coordinates of pentagon's vertexes: (124 12),(124 12),(12 24),(12 21),(12 21)
+
+
+
+1. Add figure in queue
+2. Delete figure from queue
+3. Output figure
+4. Output all figures
+5. Add figure by index
+Input the number of function: 4
+Coordinates of pentagon's vertexes: (124 12),(124 12),(12 24),(12 21),(12 21)
+
+
+
+
+1. Add figure in queue
+2. Delete figure from queue
+3. Output figure
+4. Output all figures
+5. Add figure by index
+Input the number of function: 1
+Coordinates of 1 vertex:
+Coordinate 'x': 12
+Coordinate 'y': 214
+Coordinates of 2 vertex:
+Coordinate 'x': 1
+Coordinate 'y': 12
+Coordinates of 3 vertex:
+Coordinate 'x': 125
+Coordinate 'y': 12
+Coordinates of 4 vertex:
+Coordinate 'x': 125
+Coordinate 'y': 12
+Coordinates of 5 vertex:
+Coordinate 'x': 215
+Coordinate 'y': 12
+Coordinates of pentagon's vertexes: (12 214),(1 12),(125 12),(125 12),(215 12)
+
+
+
+1. Add figure in queue
+2. Delete figure from queue
+3. Output figure
+4. Output all figures
+5. Add figure by index
+Input the number of function: 4
+Coordinates of pentagon's vertexes: (124 12),(124 12),(12 24),(12 21),(12 21)
+
+Coordinates of pentagon's vertexes: (12 214),(1 12),(125 12),(125 12),(215 12)
